@@ -1,3 +1,4 @@
+/.this is first commit to my git hub account
 import java.util.Scanner;
 
  public class calculator
